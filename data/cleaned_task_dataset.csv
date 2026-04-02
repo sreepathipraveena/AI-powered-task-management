@@ -1,0 +1,41 @@
+task_description,priority,task_length,clean_text
+Fix the database connection issue in the login module,High,9,fix database connection issue login module
+Update the user profile page with new color scheme,Low,9,update user profile page new color scheme
+Respond to the client email regarding the new feature,Medium,9,respond client email regarding new feature
+Resolve the memory leak in the background worker,High,8,resolve memory leak background worker
+Write unit tests for the new API endpoints,Medium,8,write unit test new api endpoint
+Change the application logo in the header,Low,7,change application logo header
+Server is down and needs restarting immediately,High,7,server need restarting immediately
+Add pagination to the data grid,Medium,6,add pagination data grid
+Fix typo on the landing page,Low,6,fix typo landing page
+Investigate strange error logs in production,High,6,investigate strange error log production
+Setup CI/CD pipeline for the new microservice,High,7,setup cicd pipeline new microservice
+Refactor the authentication logic,Medium,4,refactor authentication logic
+Update documentation for the usage guide,Low,6,update documentation usage guide
+Optimize database query for reports,High,5,optimize database query report
+Review pull requests for the front-end team,Medium,7,review pull request frontend team
+Create presentation slides for tomorrow meeting,High,6,create presentation slide tomorrow meeting
+Adjust font sizes on mobile view,Low,6,adjust font size mobile view
+Deploy the latest hotfix to staging environment,High,7,deploy latest hotfix staging environment
+Migrate old user data to the new schema,High,8,migrate old user data new schema
+Design modern UI for the settings page,Medium,7,design modern ui setting page
+Test the payment gateway integration,High,5,test payment gateway integration
+Clean up unused CSS classes,Low,5,clean unused cs class
+Schedule a weekly sync with the design team,Medium,8,schedule weekly sync design team
+Implement cache for the product catalog,High,6,implement cache product catalog
+Organize team building activity details,Low,5,organize team building activity detail
+Write API documentation for external partners,Medium,6,write api documentation external partner
+Upgrade server OS to latest version,High,6,upgrade server o latest version
+Change border color on welcome screen,Low,6,change border color welcome screen
+Debug the intermittent failing tests,High,5,debug intermittent failing test
+Refactor hardcoded strings to translation files,Low,6,refactor hardcoded string translation file
+Sync with backend regarding upcoming structural changes,Medium,7,sync backend regarding upcoming structural change
+Set up monitoring alerts for CPU thresholds,High,7,set monitoring alert cpu threshold
+Investigate customer complaint on billing system,High,6,investigate customer complaint billing system
+Refine the scrolling animation,Low,4,refine scrolling animation
+Participate in agile sprint planning,Medium,5,participate agile sprint planning
+Validate new SSL certificates before expiration,High,6,validate new ssl certificate expiration
+Add tooltip to the info button,Low,6,add tooltip info button
+Review security audit report,High,4,review security audit report
+Prepare demo for stake holders,Medium,5,prepare demo stake holder
+Fix alignment issue on Edge browser,Low,6,fix alignment issue edge browser
